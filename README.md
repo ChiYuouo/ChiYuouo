@@ -6,6 +6,8 @@
 
 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [新华三 NX30 Pro 免拆机刷 ImmortalWrt 保姆级教程](https://chiyu.cyou/2026/nx30pro)
+- [博客上线啦](https://chiyu.cyou/2026/first-blog)
 <!-- BLOG-POST-LIST:END -->
 
 ## Hi there 👋
