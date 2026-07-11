@@ -4,6 +4,10 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/ChiYuouo/ChiYuouo/output/github-snake-dark.svg" />
 </picture>
 
+&nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Hi there 👋
 
 <!--
